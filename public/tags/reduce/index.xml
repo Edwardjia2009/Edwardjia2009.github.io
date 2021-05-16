@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>reduce on ᗴureka!</title>
+    <link>https://Edwardjia2009.github.io/eureka/tags/reduce/</link>
+    <description>Recent content in reduce on ᗴureka!</description>
+    <image>
+      <url>https://Edwardjia2009.github.io/eureka/papermod-cover.png</url>
+      <link>https://Edwardjia2009.github.io/eureka/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 15 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://Edwardjia2009.github.io/eureka/tags/reduce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thinking in Reduce</title>
+      <link>https://Edwardjia2009.github.io/eureka/posts/reduce-in-js/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Edwardjia2009.github.io/eureka/posts/reduce-in-js/</guid>
+      <description>A dive into the loop in functional programing</description>
+    </item>
+    
+  </channel>
+</rss>
